@@ -1,4 +1,3 @@
-import React from "react";
 import { BiTrash } from "react-icons/bi";
 import styles from "./Todo.module.css";
 

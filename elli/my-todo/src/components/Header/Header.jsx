@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import { useContext } from "react";
 import styles from "./Header.module.css";
 import { DarkModeContext } from "../../context/DarkModeContext";
 import { MdDarkMode } from "react-icons/md";
